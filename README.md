@@ -9,11 +9,7 @@ Open your terminal and run the following command to clone the repository:
 ```bash
 git clone https://github.com/Abdullah-Siddique/FitnessTracker
 
-### Navigate directory:
-
 cd FitnessTracker
-
-### Run:
 
 project.py
 
